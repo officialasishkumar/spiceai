@@ -916,8 +916,8 @@
               "reasonOutOfScope": "",
               "hasOpenThreats": true,
               "isBidirectional": true,
-              "isEncrypted": false,
-              "isPublicNetwork": true,
+              "isEncrypted": true,
+              "isPublicNetwork": false,
               "protocol": "gRPC",
               "threats": [
                 {
@@ -1513,8 +1513,8 @@
               "reasonOutOfScope": "",
               "hasOpenThreats": false,
               "isBidirectional": false,
-              "isEncrypted": false,
-              "isPublicNetwork": true,
+              "isEncrypted": true,
+              "isPublicNetwork": false,
               "protocol": "gRPC",
               "threats": []
             },
